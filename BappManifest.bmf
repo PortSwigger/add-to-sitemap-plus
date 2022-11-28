@@ -1,0 +1,13 @@
+Uuid: da121070f8644317abd44e956680218f
+ExtensionType: 2
+Name: Add to SiteMap+
+RepoName: add-to-sitemap-plus
+ScreenVersion: 1.0
+SerialVersion: 2
+MinPlatformVersion: 0
+ProOnly: False
+Author: quahac
+ShortDescription: Read URLs from files or clipbaord and add the discovered information to the site map of the selected host(s)
+EntryPoint: Add_Sitemap++.py
+BuildCommand: 
+SupportedProducts: Pro, Community
